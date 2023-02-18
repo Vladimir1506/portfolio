@@ -1,0 +1,11 @@
+.skills {
+    background-color: #76a6df;
+    text-align: center;
+}
+
+
+.skillsBlock {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

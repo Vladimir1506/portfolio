@@ -1,0 +1,14 @@
+.portfolio {
+    padding: 10vh 0;
+    background-color: #97dfc4;
+    text-align: center;
+
+}
+
+.portfolioBlock {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}

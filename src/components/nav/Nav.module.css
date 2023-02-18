@@ -1,0 +1,9 @@
+.nav {
+    height: 100%;
+    display: flex;
+    gap: 3%;
+    justify-content: end;
+    align-items: center;
+    flex-wrap: wrap;
+
+}

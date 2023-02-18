@@ -1,0 +1,30 @@
+.home {
+    height: 85vh;
+    background-color: #9ddf81;
+}
+
+.homeBlock {
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nameBlock {
+    border: 1px solid;
+    min-width: 300px;
+    text-align: center;
+}
+
+.photoBlock {
+    border: 1px solid;
+    min-width: 360px;
+    width: 50%;
+    /*height: 80%;*/
+    text-align: center;
+}
+
+.photoBlock img{
+    width: 80%;
+}

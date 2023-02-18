@@ -1,0 +1,16 @@
+.project {
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    color: darkcyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+
+.button {
+    height: 30px;
+    border: 1px solid cornflowerblue;
+    border-radius: 20px;
+}
