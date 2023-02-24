@@ -13,7 +13,7 @@ const initialPortfolio: ProjectType[] = [
     }, {
         id: v1(),
         title: 'Project #2',
-        photo: 'https://miro.medium.com/max/1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg',
+        photo: 'https://github.githubassets.com/images/modules/open_graph/github-octocat.png',
         url: 'https://github.com/'
     }, {
         id: v1(),
@@ -23,7 +23,7 @@ const initialPortfolio: ProjectType[] = [
     }, {
         id: v1(),
         title: 'Project #4',
-        photo: 'https://miro.medium.com/max/1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg',
+        photo: 'https://github.githubassets.com/images/modules/open_graph/github-octocat.png',
         url: 'https://github.com/'
     },
 ]

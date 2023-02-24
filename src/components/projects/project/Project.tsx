@@ -14,11 +14,7 @@ export type ProjectType = {
 }
 const Project = ({project}: ProjectPropsType) => {
     return (
-        <div style={{
-            background: `url('${project.photo}') top no-repeat`,
-            backgroundPosition: 'center',
-            backgroundSize: '100% 100%',
-        }} className={styles.project}>
+        <div style={{background: `url('${project.photo}') center / cover no-repeat`}} className={styles.project}>
             <h2>{project.title}</h2>
             <div className={styles.button}>Open</div>
         </div>
